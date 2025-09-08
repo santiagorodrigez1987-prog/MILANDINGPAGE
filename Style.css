@@ -202,14 +202,14 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Efecto de otro color al pasar el mouse por el botón*/
 .linktree-link:hover {
-    background-color: #eee88f;
+    background-color: #D9A066;
 }
 
 /* Contact Form */
 .contact-form {
     display: flex;
     flex-direction: column;
-    max-width: 500px;
+    max-width: 600px;
     margin: 0 auto;
     text-align: left;
 }
@@ -217,10 +217,10 @@ del area de Estudios realizados y experiencia laboral*/
 /*Sección para darle color a los bordes, tamaño y ajustes a las cajas de texto del formulario*/
 .contact-form input,
 .contact-form textarea {
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border: 1px solid #b91a1a;
-    border-radius: 5px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 2px solid #b91a1a;
+    border-radius: 6px;
 }
 
 /*Sección para cambiar el color del botón de enviar mensaje y el color de la letra */
@@ -237,7 +237,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Para cambiar el efecto de color al pasar el mouse por el boton de "Enviar Mensaje"*/
 .submit-button:hover {
-    background-color: #fafa6d;
+    background-color: #D4AF37;
 }
 
 /* Footer */
@@ -281,4 +281,5 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
