@@ -1,6 +1,6 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: #1D3557;
+    --primary-color: #0B2545;
     --secondary-color: #457B9D;
     --text-color: #7B3E19;;
     --background-color: #FAF7F2;
@@ -124,9 +124,9 @@ body {
 
 /*Dimensiones y aspectos de la foto de perfil*/
 .profile-photo {
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    border-radius: 20%;
     object-fit: cover;
     border: 20px solid #71ade6;
     margin-bottom: 1rem;
@@ -136,7 +136,7 @@ body {
 .profile-name {
     font-size: 2.5rem;
     margin: 0.5rem 0;
-    color: #71ade6;
+    color: #C9A227;
 }
 
 .profile-summary {
@@ -281,3 +281,4 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
