@@ -1,6 +1,6 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: #0B2545;
+    --primary-color: #457B9D;
     --secondary-color: #457B9D;
     --text-color: #7B3E19;;
     --background-color: #FAF7F2;
@@ -153,7 +153,7 @@ body {
 /*Sección para cambiar colores de fondo, tamaño de letra y alineación del texto o contenedores
 del area de Estudios realizados y experiencia laboral*/
 .list li {
-    background-color: rgb(219, 171, 109);
+    background-color: #2A9D8F;
     border-left: 5px solid var(--primary-color);
     padding: 1rem;
     margin-bottom: 1rem;
@@ -225,7 +225,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Sección para cambiar el color del botón de enviar mensaje y el color de la letra */
 .submit-button {
-    background-color: rgb(161, 241, 192);
+    background-color: #264653;
     color: white;
     border: none;
     padding: 1rem;
@@ -237,7 +237,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Para cambiar el efecto de color al pasar el mouse por el boton de "Enviar Mensaje"*/
 .submit-button:hover {
-    background-color: #D4AF37;
+    background-color: #2A9D8F;
 }
 
 /* Footer */
@@ -281,6 +281,7 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
 
