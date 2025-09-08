@@ -191,7 +191,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 /*Sección para cambiar el color a la letra o fondo de cada link en el Linktree */
 .linktree-link {
-    background-color: rgb(99, 184, 233);
+    background-color: #7B3E19;
     color: rgb(250, 250, 250);
     text-decoration: none;
     padding: 1rem 2rem;
@@ -281,5 +281,6 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
