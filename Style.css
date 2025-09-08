@@ -1,16 +1,16 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: rgb(50,120,100);
-    --secondary-color: #934a19;
-    --text-color: #333333;;
-    --background-color: #f4f4f4;
-    --light-gray: #ecf0f1;
+    --primary-color: #1D3557;
+    --secondary-color: #457B9D;
+    --text-color: #7B3E19;;
+    --background-color: #FAF7F2;
+    --light-gray: #F1E9DB;
 }
 
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
+    line-height: 1.9;
     margin: 0;
     padding: 0;
     background-color: var(--background-color);
@@ -279,4 +279,5 @@ del area de Estudios realizados y experiencia laboral*/
     .list li {
         text-align: center;
     }
+
 }
